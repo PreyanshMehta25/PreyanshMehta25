@@ -21,37 +21,55 @@
   <picture>
     <source srcset="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" media="(prefers-color-scheme: dark)">
     <source srcset="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" media="(prefers-color-scheme: light)">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" style="border-radius: 8px;" />
   </picture>
 
   <picture>
     <source srcset="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" media="(prefers-color-scheme: dark)">
     <source srcset="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" media="(prefers-color-scheme: light)">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" style="border-radius: 8px;" />
+  </picture>
+
+  <picture>
+    <source srcset="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" media="(prefers-color-scheme: dark)">
+    <source srcset="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" media="(prefers-color-scheme: light)">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" style="border-radius: 8px;" />
+  </picture>
+
+  <picture>
+    <source srcset="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" media="(prefers-color-scheme: dark)">
+    <source srcset="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" media="(prefers-color-scheme: light)">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" style="border-radius: 8px;" />
+  </picture>
+
+  <picture>
+    <source srcset="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" media="(prefers-color-scheme: dark)">
+    <source srcset="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" media="(prefers-color-scheme: light)">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" style="border-radius: 8px;" />
   </picture>
 
   <picture>
     <source srcset="https://img.shields.io/badge/MERN-Stack-ffffff?style=for-the-badge&logo=mongodb&logoColor=3C873A" media="(prefers-color-scheme: light)">
     <source srcset="https://img.shields.io/badge/MERN-Stack-222222?style=for-the-badge&logo=mongodb&logoColor=3C873A" media="(prefers-color-scheme: dark)">
-    <img src="https://img.shields.io/badge/MERN-Stack-ffffff?style=for-the-badge&logo=mongodb&logoColor=3C873A" alt="MERN Stack Badge" />
+    <img src="https://img.shields.io/badge/MERN-Stack-ffffff?style=for-the-badge&logo=mongodb&logoColor=3C873A" alt="MERN Stack Badge" style="border-radius: 8px;" />
   </picture>
 
   <picture>
     <source srcset="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" media="(prefers-color-scheme: dark)">
     <source srcset="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" media="(prefers-color-scheme: light)">
-    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
+    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" style="border-radius: 8px;" />
   </picture>
 
   <picture>
     <source srcset="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" media="(prefers-color-scheme: dark)">
     <source srcset="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black" media="(prefers-color-scheme: light)">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge" style="border-radius: 8px;" />
   </picture>
 
   <picture>
     <source srcset="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" media="(prefers-color-scheme: dark)">
     <source srcset="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" media="(prefers-color-scheme: light)">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge" style="border-radius: 8px;" />
   </picture>
 </p>
 
