@@ -7,25 +7,52 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 B.Tech at **Sardar Patel Institute of Technology** (8.48 CGPA) | Minor in Finance & Strategic Management
+- 🎓 B.Tech at **Sardar Patel Institute of Technology** (8.44 CGPA) | Minor in Finance & Strategic Management
 - 🛠️ Building projects in **Web Development**, **Machine Learning**, and **Real-time Systems**
+- 🌱 Exploring more about **Backend Scalability** and **Advanced Frontend Architectures**
 - 🏆 1st Runner-Up at rAPId Backend Hackathon | Winner (WebDev domain) at S.E. Hackathon
 - 💬 Always happy to talk about Tech, Projects, Ideas, or Opportunities
-- 📫 Connect with me at [preyanshmehta25@gmail.com](mailto:preyanshmehta25@gmail.com) or [LinkedIn](https://www.linkedin.com/in/preyansh-mehta-770178284)
 
 ---
 
 ### 🛠️ Skills and Technologies:
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/MERN-Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=101010" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010" style="border-radius: 8px;"/>
+  <picture>
+    <source srcset="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" media="(prefers-color-scheme: dark)">
+    <source srcset="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" media="(prefers-color-scheme: light)">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  </picture>
+
+  <picture>
+    <source srcset="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" media="(prefers-color-scheme: dark)">
+    <source srcset="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" media="(prefers-color-scheme: light)">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+  </picture>
+
+  <picture>
+    <source srcset="https://img.shields.io/badge/MERN-Stack-ffffff?style=for-the-badge&logo=mongodb&logoColor=3C873A" media="(prefers-color-scheme: light)">
+    <source srcset="https://img.shields.io/badge/MERN-Stack-222222?style=for-the-badge&logo=mongodb&logoColor=3C873A" media="(prefers-color-scheme: dark)">
+    <img src="https://img.shields.io/badge/MERN-Stack-ffffff?style=for-the-badge&logo=mongodb&logoColor=3C873A" alt="MERN Stack Badge" />
+  </picture>
+
+  <picture>
+    <source srcset="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" media="(prefers-color-scheme: dark)">
+    <source srcset="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" media="(prefers-color-scheme: light)">
+    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
+  </picture>
+
+  <picture>
+    <source srcset="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" media="(prefers-color-scheme: dark)">
+    <source srcset="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black" media="(prefers-color-scheme: light)">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge" />
+  </picture>
+
+  <picture>
+    <source srcset="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" media="(prefers-color-scheme: dark)">
+    <source srcset="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" media="(prefers-color-scheme: light)">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge" />
+  </picture>
 </p>
 
 ---
@@ -78,10 +105,10 @@
 ### 🌐 Let's Connect:
 <p align="left">
   <a href="https://linkedin.com/in/preyansh-mehta-770178284" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" style="border-radius: 8px;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:preyanshmehta25@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" style="border-radius: 8px;"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
