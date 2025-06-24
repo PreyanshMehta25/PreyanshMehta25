@@ -80,11 +80,15 @@
 - 🏏 [**IPL Dream Team Prediction**](https://github.com/PreyanshMehta25/IPL-dream-team-prediction.git)  
   Predict player performance, generate dream teams, and manage IPL auction budgets with smart analytics.
 
+- 🏫 [**Educational Backend System**](https://github.com/PreyanshMehta25/Educational-backend-system.git)  
+A robust backend system built for managing educational data, with support for student, course, and admin operations.
+
 - 💬 [**Gossip Chatting App**](https://github.com/PreyanshMehta25/Gossip-chatting.git)  
   Real-time 1:1 chatting app using MERN stack & Socket.io with live updates and seamless UI.
 
 - 🏢 [**StockWise - Real-Time Inventory Management Platform**](https://drive.google.com/file/d/1WNQieWjiUKlyBtIzyvhaC7WZAXMeA7Dx/view)  
   Scalable, real-time inventory system for SMBs with automated alerts, multi-warehouse tracking, and exportable reports.
+
 
 ---
 
