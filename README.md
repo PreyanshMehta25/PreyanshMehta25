@@ -75,19 +75,55 @@
 
 ---
 
-### 🚀 My Projects:
+# 🚀 My Projects
 
-- 🏏 [**IPL Dream Team Prediction**](https://github.com/PreyanshMehta25/IPL-dream-team-prediction.git)  
-  Predict player performance, generate dream teams, and manage IPL auction budgets with smart analytics.
+This section showcases a selection of my full-stack and backend projects, demonstrating my proficiency primarily with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js), real-time technologies, and robust system design.
 
-- 🏫 [**Educational Backend System**](https://github.com/PreyanshMehta25/Educational-backend-system.git)  
-A robust backend system built for managing educational data, with support for student, course, and admin operations.
+---
 
-- 💬 [**Gossip Chatting App**](https://github.com/PreyanshMehta25/Gossip-chatting.git)  
-  Real-time 1:1 chatting app using MERN stack & Socket.io with live updates and seamless UI.
+### 💡 Project Showcase
 
-- 🏢 [**StockWise - Real-Time Inventory Management Platform**](https://drive.google.com/file/d/1WNQieWjiUKlyBtIzyvhaC7WZAXMeA7Dx/view)  
-  Scalable, real-time inventory system for SMBs with automated alerts, multi-warehouse tracking, and exportable reports.
+Here are some of the key projects I've built:
+
+#### 🧑‍⚕️ **Doctor's Clinic Management System**
+* **Description:** A comprehensive MERN stack application for efficient clinic operations. It features intuitive **appointment booking**, **patient review submissions**, and an informative **blog section**. The system includes a robust **admin dashboard with role-based access control** for seamless management, complemented by **real-time chat functionality using WebSockets** for enhanced communication.
+* **Technologies:** MERN Stack, WebSockets (Socket.io)
+* **Links:** [User Panel Live Demo](https://clinic-website-orpin.vercel.app) | [Admin Dashboard Live Demo](https://clinic-website-sqtc.vercel.app)
+
+---
+
+#### 📚 **Minimal Q&A Forum Platform**
+* **Description:** A MERN stack-based question-and-answer platform designed for **collaborative learning** and **structured knowledge sharing**. Users can post questions with rich text descriptions and tags, provide formatted answers, and engage with **upvoting/downvoting**. It includes the ability for question owners to **accept answers** and a **real-time notification system** for user engagement.
+* **Technologies:** MERN Stack, Rich Text Editor Libraries, Notification Systems
+* **Links:** [Live Demo](https://stack-it-three.vercel.app)
+
+---
+
+#### 🏏 **IPL Dream Team Prediction**
+* **Description:** An analytical tool designed to **predict player performance**, **generate optimal dream teams**, and assist in **managing IPL auction budgets** through smart data analytics.
+* **Technologies:** Python, Data Analysis Libraries (e.g., Pandas, NumPy), Machine Learning (if applicable, you can add specific libraries like Scikit-learn)
+* **Links:** [GitHub Repository](https://github.com/PreyanshMehta25/IPL-dream-team-prediction.git)
+
+---
+
+#### 🏫 **Educational Backend System**
+* **Description:** A robust backend system engineered for **managing comprehensive educational data**. It provides full support for **student, course, and administrative operations**, ensuring data integrity and efficient access.
+* **Technologies:** Node.js, Express.js, MongoDB (or other database), RESTful APIs
+* **Links:** [GitHub Repository](https://github.com/PreyanshMehta25/Educational-backend-system.git)
+
+---
+
+#### 💬 **Gossip Chatting App**
+* **Description:** A **real-time 1:1 chatting application** built with the MERN stack and Socket.io. It offers **live message updates** and a **seamless user interface** for direct communication.
+* **Technologies:** MERN Stack, Socket.io, WebSockets
+* **Links:** [GitHub Repository](https://github.com/PreyanshMehta25/Gossip-chatting.git)
+
+---
+
+#### 🏢 **StockWise - Real-Time Inventory Management Platform**
+* **Description:** A **scalable, real-time inventory management system** tailored for Small and Medium Businesses (SMBs). Features include **automated low-stock alerts, multi-warehouse tracking**, and **exportable reports** for efficient stock oversight.
+* **Technologies:** (Add your specific backend/frontend technologies here if not MERN, e.g., Node.js, React, specific database)
+* **Links:** [Google Drive Demo Video](https://drive.google.com/file/d/1WNQieWjiUKlyBtIzyvhaC7WZAXMeA7Dx/view)
 
 
 ---
