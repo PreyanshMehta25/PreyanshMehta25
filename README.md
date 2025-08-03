@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 B.Tech at **Sardar Patel Institute of Technology** (8.44 CGPA) | Minor in Finance & Strategic Management
+- 🎓 B.Tech at **Sardar Patel Institute of Technology** | Minor in Finance & Strategic Management
 - 🛠️ Building projects in **Web Development**, **Machine Learning**, and **Real-time Systems**
 - 🌱 Exploring more about **Backend Scalability** and **Advanced Frontend Architectures**
 - 🏆 1st Runner-Up at rAPId Backend Hackathon | Winner (WebDev domain) at S.E. Hackathon
