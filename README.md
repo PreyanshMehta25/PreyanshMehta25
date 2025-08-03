@@ -75,13 +75,7 @@
 
 ---
 
-# 🚀 My Projects
-
-This section showcases a selection of my full-stack and backend projects, demonstrating my proficiency primarily with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js), real-time technologies, and robust system design.
-
----
-
-### 💡 Project Showcase
+### 🚀 My Projects
 
 Here are some of the key projects I've built:
 
